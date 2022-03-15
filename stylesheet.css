@@ -1,0 +1,11 @@
+body{
+    background-color: gray;
+}
+#nav{
+    color: white;
+    margin: 30px;
+    font-family: Nunito Sans;
+}
+#body{
+    background-color: lightgray;
+}
